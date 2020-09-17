@@ -1,0 +1,7 @@
+-cp src
+-D analyzer-optimize
+-main Main
+-D lua-vanilla
+-D lua_ver 5.1
+--lua /Users/jackthetron/Library/Preferences/Renoise/V3.2.2/Scripts/TestPad.lua
+--dce full
