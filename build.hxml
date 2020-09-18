@@ -3,5 +3,6 @@
 -main Main
 -D lua-vanilla
 -D lua_ver 5.1
---lua /Users/jackthetron/Library/Preferences/Renoise/V3.2.2/Scripts/TestPad.lua
+# --lua /Users/jackthetron/Library/Preferences/Renoise/V3.2.2/Scripts/TestPad.lua
+--lua dist/main.lua
 --dce full
