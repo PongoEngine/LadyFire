@@ -4,5 +4,6 @@
 -D lua-vanilla
 -D lua_ver 5.1
 # --lua /Users/jackthetron/Library/Preferences/Renoise/V3.2.2/Scripts/TestPad.lua
---lua dist/main.lua
+--lua com.pongo.LadyFire.xrnx/main.lua
 --dce full
+-cmd cp com.pongo.LadyFire.xrnx/main.lua /Users/jackthetron/Library/Preferences/Renoise/V3.2.2/Scripts/Tools/com.pongo.LadyFire.xrnx/main.lua
