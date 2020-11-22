@@ -6,4 +6,5 @@
 # --lua /Users/jackthetron/Library/Preferences/Renoise/V3.2.2/Scripts/TestPad.lua
 --lua com.pongo.LadyFire.xrnx/main.lua
 --dce full
--cmd cp com.pongo.LadyFire.xrnx/main.lua /Users/jackthetron/Library/Preferences/Renoise/V3.2.2/Scripts/Tools/com.pongo.LadyFire.xrnx/main.lua
+-cmd cp com.pongo.LadyFire.xrnx/main.lua /Users/jeremy/Library/Preferences/Renoise/V3.2.4/Scripts/Tools/com.pongo.LadyFire.xrnx/main.lua
+-cmd cp com.pongo.LadyFire.xrnx/manifest.xml /Users/jeremy/Library/Preferences/Renoise/V3.2.4/Scripts/Tools/com.pongo.LadyFire.xrnx/manifest.xml
