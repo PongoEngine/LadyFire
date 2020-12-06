@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<RenoiseScriptingTool doc_version="0">
-  <ApiVersion>6</ApiVersion>
+<?xml veion="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_veion="0">
+  <ApiVeion>6</ApiVeion>
   <Id>com.pongo.LadyFire</Id>
-  <Version>1.0</Version>
+  <Veion>1.0</Veion>
   <Author>Jeremy [jeremy@sourcre.am]</Author>
   <Name>Lady Akai Fire Integration</Name>
   <Category>Tool Development</Category>
